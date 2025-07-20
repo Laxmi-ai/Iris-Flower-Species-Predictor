@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # app.py
 
 import streamlit as st
@@ -56,7 +56,6 @@ if hasattr(model, "feature_importances_"):
 
 
 st.markdown("Please fill in the details below to proceed.")
-
 
 
 
